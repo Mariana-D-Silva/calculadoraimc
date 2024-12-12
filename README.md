@@ -1,6 +1,6 @@
 # Calculadora IMC
 Esse projeto foi desenvolvido apartir de um curso em Mobile que estou realizando.
-É um app basico para calcular IMC
+É um aplicativo basico para calculo do IMC.
 - Aplicativo Android nativo com Linguagem Kotlin
 
 ## :camera_flash: Screenshots
