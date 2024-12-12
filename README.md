@@ -8,7 +8,6 @@ Esse projeto foi desenvolvido apartir de um curso em Mobile que estou realizando
 <img src="https://github.com/user-attachments/assets/d97ed4a0-1d05-474f-9713-62cc03d7780e" width=260/>
 <img src="https://github.com/user-attachments/assets/64f7d8c3-b9f0-4326-ac3a-1060b717fbd6" width=260/>
 <img src="https://github.com/user-attachments/assets/b4a85c79-e180-47fc-9a36-d62bc11aad63" width=260/>
-Screenshots
 
 ## Tecnologias
 - Activity
